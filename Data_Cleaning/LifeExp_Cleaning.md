@@ -42,7 +42,7 @@ The project was completed following a step-by-step approach, and screenshots of 
 ---
 
 ## Files
-- `world_life_expectancy_cleaning.sql` – Full SQL script with comments
+- `World_Life_Expectancy Cleaning.sql` – Full SQL script with comments
 - `Screenshots/` – Folder with images showing data before and after cleaning
 
 ---
