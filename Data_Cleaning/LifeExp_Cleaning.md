@@ -43,7 +43,7 @@ The project was completed following a step-by-step approach, and screenshots of 
 
 ## Files
 - `world_life_expectancy_cleaning.sql` – Full SQL script with comments
-- `before_after_screenshots/` – Folder with images showing data before and after cleaning
+- `Screenshots/` – Folder with images showing data before and after cleaning
 
 ---
 
@@ -56,5 +56,4 @@ The dataset was successfully cleaned:
 ---
 
 ## Author
-Latif Yari – Aspiring Data Analyst  
-[LinkedIn](#) | [GitHub](#)
+Latifa Yari – Data Analyst 
