@@ -105,5 +105,4 @@ This SQL EDA project highlights the critical influence of economic and health fa
 All screenshots are named by their corresponding analysis step for clarity.
 
 ## Author
-Latif Yari – Aspiring Data Analyst  
-[LinkedIn](#) | [GitHub](#)
+Latifa Yari – Data Analyst
