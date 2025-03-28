@@ -55,10 +55,7 @@ Prepare a clean, consistent dataset by addressing:
 ### 📈 Key EDA Insights
 
 #### 1. Dataset Overview  
-📷 **[1_View_All_Records.png](.Exploratory Data Analysis/Screenshots/01_MIN_MAX_LifeExpectancy_By_Country.jpg)**  
-```sql
-SELECT * FROM world_life_expectancy;
-```
+📷 
 
 #### 2. Countries with Greatest Life Expectancy Improvement  
 📷 **[2_Countries_Improved_Life_Expectancy.png](./Exploratory%20Data%20Analysis/Screenshots/02_Countries_Improved_Life_Expectancy.png)**  
