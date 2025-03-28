@@ -61,37 +61,37 @@ SELECT * FROM world_life_expectancy;
 ```
 
 #### 2. Countries with Greatest Life Expectancy Improvement  
-📷 **[2_Countries_Improved_Life_Expectancy.png](./Explorator%20Data%20Analysis/Screenshots/02_Countries_Improved_Life_Expectancy.png)**  
+📷 **[2_Countries_Improved_Life_Expectancy.png](./Exploratory%20Data%20Analysis/Screenshots/02_Countries_Improved_Life_Expectancy.png)**  
 - Haiti showed the most improvement (~28.7 years) over 15 years.
 
 #### 3. Global Trend Over Time  
-📷 **[3_Global_Avg_Life_Expectancy_By_Year.png](./Explorator%20Data%20Analysis/Screenshots/03_Global_Avg_Life_Expectancy_By_Year.png)**  
+📷 **[3_Global_Avg_Life_Expectancy_By_Year.png](./Exploratory%20Data%20Analysis/Screenshots/03_Global_Avg_Life_Expectancy_By_Year.png)**  
 - Global life expectancy rose from ~66.75 to ~71.24 between 2007–2020.
 
 #### 4. GDP vs Life Expectancy  
-📷 **[4_GDP_vs_Life_Expectancy_High.png](./Explorator%20Data%20Analysis/Screenshots/04_GDP_vs_Life_Expectancy_High.png)**  
-📷 **[5_GDP_vs_Life_Expectancy_Low.png](./Explorator%20Data%20Analysis/Screenshots/05_GDP_vs_Life_Expectancy_Low.png)**  
+📷 **[4_GDP_vs_Life_Expectancy_High.png](./Exploratory%20Data%20Analysis/Screenshots/04_GDP_vs_Life_Expectancy_High.png)**  
+📷 **[5_GDP_vs_Life_Expectancy_Low.png](./Exploratory%20Data%20Analysis/Screenshots/05_GDP_vs_Life_Expectancy_Low.png)**  
 - High-GDP countries live ~10 years longer on average.
 
 #### 5. GDP Bracket Comparison  
-📷 **[6_GDP_Brackets_Comparison.png](./Explorator%20Data%20Analysis/Screenshots/6_GDP_Brackets_Comparison.png)**  
+📷 **[6_GDP_Brackets_Comparison.png](./Exploratory%20Data%20Analysis/Screenshots/6_GDP_Brackets_Comparison.png)**  
 - GDP ≥ 1500: Avg life expectancy = 74.2  
 - GDP ≤ 1500: Avg life expectancy = 64.7  
 
 #### 6. Developed vs Developing Countries  
-📷 **[7_Developed_vs_Developing_Count_LifeExp.png](./Explorator%20Data%20Analysis/Screenshots/7_Developed_vs_Developing_Count_LifeExp.png)**  
+📷 **[7_Developed_vs_Developing_Count_LifeExp.png](./Exploratory%20Data%20Analysis/Screenshots/7_Developed_vs_Developing_Count_LifeExp.png)**  
 📷 **[8_Developed_vs_Developing_Avg_LifeExp.png](./Exploratory%20Data%20Analysis/Screenshots/8_Developed_vs_Developing_Avg_LifeExp.png)**  
 - Developed: ~79.2 years  
 - Developing: ~66.8 years  
 
 #### 7. BMI and Life Expectancy  
-📷 **[9_BMI_vs_Life_Expectancy_Low.png](./Explorator%20Data%20Analysis/Screenshots/9_BMI_vs_Life_Expectancy_Low.png)**  
-📷 **[10_BMI_vs_Life_Expectancy_High.png](./Explorator%20Data%20Analysis/Screenshots/10_BMI_vs_Life_Expectancy_High.png)**  
+📷 **[9_BMI_vs_Life_Expectancy_Low.png](./Exploratory%20Data%20Analysis/Screenshots/9_BMI_vs_Life_Expectancy_Low.png)**  
+📷 **[10_BMI_vs_Life_Expectancy_High.png](./Exploratory%20Data%20Analysis/Screenshots/10_BMI_vs_Life_Expectancy_High.png)**  
 - Higher BMI → higher life expectancy correlation.
 
 #### 8. Adult Mortality Trend (Rolling)  
-📷 **[11_Rolling_Adult_Mortality_Afghanistan.png](./Explorator%20Data%20Analysis/Screenshots/11_Rolling_Adult_Mortality_Afghanistan.png)**  
-📷 **[12_Rolling_Adult_Mortality_USA.png](./Explorator%20Data%20Analysis/Screenshots/12_Rolling_Adult_Mortality_USA.png)**  
+📷 **[11_Rolling_Adult_Mortality_Afghanistan.png](./Exploratory%20Data%20Analysis/Screenshots/11_Rolling_Adult_Mortality_Afghanistan.png)**  
+📷 **[12_Rolling_Adult_Mortality_USA.png](./Exploratory%20Data%20Analysis/Screenshots/12_Rolling_Adult_Mortality_USA.png)**  
 
 ---
 
