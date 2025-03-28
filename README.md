@@ -102,9 +102,8 @@ Prepare a clean, consistent dataset by addressing:
 ## ✅ Outcome
 - The dataset is cleaned, structured, and ready for analysis.
 - EDA uncovered valuable insights around life expectancy, GDP, BMI, and mortality.
-- The project pipeline can support future visualization and modeling steps.
-
+- 
 ---
 
 ## 👤 Author
-**Latifa Yari** – Aspiring Data Analyst  
+**Latifa Yari** – Data Analyst  
