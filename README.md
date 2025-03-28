@@ -55,22 +55,22 @@ Prepare a clean, consistent dataset by addressing:
 ### 📈 Key EDA Insights
 
 #### 1. Dataset Overview  
-📷 **[1_View_All_Records.png](./Exploratory\Data\Analysis/Screenshots/1_View_All_Records.png)**  
+📷 **[1_View_All_Records.png](./Exploratory\Data\Analysis/Screenshots/01_View_All_Records.png)**  
 ```sql
 SELECT * FROM world_life_expectancy;
 ```
 
 #### 2. Countries with Greatest Life Expectancy Improvement  
-📷 **[2_Countries_Improved_Life_Expectancy.png](./Exploratory\Data\Analysis/Screenshots/2_Countries_Improved_Life_Expectancy.png)**  
+📷 **[2_Countries_Improved_Life_Expectancy.png](./Exploratory\Data\Analysis/Screenshots/02_Countries_Improved_Life_Expectancy.png)**  
 - Haiti showed the most improvement (~28.7 years) over 15 years.
 
 #### 3. Global Trend Over Time  
-📷 **[3_Global_Avg_Life_Expectancy_By_Year.png](./Exploratory\Data\Analysis/Screenshots/3_Global_Avg_Life_Expectancy_By_Year.png)**  
+📷 **[3_Global_Avg_Life_Expectancy_By_Year.png](./Exploratory\Data\Analysis/Screenshots/03_Global_Avg_Life_Expectancy_By_Year.png)**  
 - Global life expectancy rose from ~66.75 to ~71.24 between 2007–2020.
 
 #### 4. GDP vs Life Expectancy  
-📷 **[4_GDP_vs_Life_Expectancy_High.png](./Exploratory\Data\Analysis/Screenshots/4_GDP_vs_Life_Expectancy_High.png)**  
-📷 **[5_GDP_vs_Life_Expectancy_Low.png](./Exploratory\Data\Analysis/Screenshots/5_GDP_vs_Life_Expectancy_Low.png)**  
+📷 **[4_GDP_vs_Life_Expectancy_High.png](./Exploratory\Data\Analysis/Screenshots/04_GDP_vs_Life_Expectancy_High.png)**  
+📷 **[5_GDP_vs_Life_Expectancy_Low.png](./Exploratory\Data\Analysis/Screenshots/05_GDP_vs_Life_Expectancy_Low.png)**  
 - High-GDP countries live ~10 years longer on average.
 
 #### 5. GDP Bracket Comparison  
@@ -90,8 +90,8 @@ SELECT * FROM world_life_expectancy;
 - Higher BMI → higher life expectancy correlation.
 
 #### 8. Adult Mortality Trend (Rolling)  
-📷 **[11_Rolling_Adult_Mortality_Afghanistan.png](./Screenshots/11_Rolling_Adult_Mortality_Afghanistan.png)**  
-📷 **[12_Rolling_Adult_Mortality_USA.png](./Screenshots/12_Rolling_Adult_Mortality_USA.png)**  
+📷 **[11_Rolling_Adult_Mortality_Afghanistan.png](./Exploratory\Data\Analysis/Screenshots/11_Rolling_Adult_Mortality_Afghanistan.png)**  
+📷 **[12_Rolling_Adult_Mortality_USA.png](./Exploratory\Data\Analysis/Screenshots/12_Rolling_Adult_Mortality_USA.png)**  
 
 ---
 
