@@ -54,41 +54,26 @@ Prepare a clean, consistent dataset by addressing:
 
 ### 📈 Key EDA Insights
 
-#### 1. Dataset Overview  
-📷 
-
 #### 2. Countries with Greatest Life Expectancy Improvement  
-📷 **[2_Countries_Improved_Life_Expectancy.png](./Exploratory%20Data%20Analysis/Screenshots/02_Countries_Improved_Life_Expectancy.png)**  
-- Haiti showed the most improvement (~28.7 years) over 15 years.
+Haiti showed the most improvement (~28.7 years) over 15 years.
 
 #### 3. Global Trend Over Time  
-📷 **[3_Global_Avg_Life_Expectancy_By_Year.png](./Exploratory%20Data%20Analysis/Screenshots/03_Global_Avg_Life_Expectancy_By_Year.png)**  
-- Global life expectancy rose from ~66.75 to ~71.24 between 2007–2020.
+Global life expectancy rose from ~66.75 to ~71.24 between 2007–2020.
 
 #### 4. GDP vs Life Expectancy  
-📷 **[4_GDP_vs_Life_Expectancy_High.png](./Exploratory%20Data%20Analysis/Screenshots/04_GDP_vs_Life_Expectancy_High.png)**  
-📷 **[5_GDP_vs_Life_Expectancy_Low.png](./Exploratory%20Data%20Analysis/Screenshots/05_GDP_vs_Life_Expectancy_Low.png)**  
-- High-GDP countries live ~10 years longer on average.
+High-GDP countries live ~10 years longer on average compared to low-GDP countries.
 
 #### 5. GDP Bracket Comparison  
-📷 **[6_GDP_Brackets_Comparison.png](./Exploratory%20Data%20Analysis/Screenshots/6_GDP_Brackets_Comparison.png)**  
-- GDP ≥ 1500: Avg life expectancy = 74.2  
-- GDP ≤ 1500: Avg life expectancy = 64.7  
+Countries with GDP ≥ 1500 have an average life expectancy of 74.2, while GDP ≤ 1500 is around 64.7.
 
 #### 6. Developed vs Developing Countries  
-📷 **[7_Developed_vs_Developing_Count_LifeExp.png](./Exploratory%20Data%20Analysis/Screenshots/7_Developed_vs_Developing_Count_LifeExp.png)**  
-📷 **[8_Developed_vs_Developing_Avg_LifeExp.png](./Exploratory%20Data%20Analysis/Screenshots/8_Developed_vs_Developing_Avg_LifeExp.png)**  
-- Developed: ~79.2 years  
-- Developing: ~66.8 years  
+Developed countries average ~79.2 years in life expectancy, while developing countries average ~66.8 years.
 
 #### 7. BMI and Life Expectancy  
-📷 **[9_BMI_vs_Life_Expectancy_Low.png](./Exploratory%20Data%20Analysis/Screenshots/9_BMI_vs_Life_Expectancy_Low.png)**  
-📷 **[10_BMI_vs_Life_Expectancy_High.png](./Exploratory%20Data%20Analysis/Screenshots/10_BMI_vs_Life_Expectancy_High.png)**  
-- Higher BMI → higher life expectancy correlation.
+Higher BMI is positively correlated with longer life expectancy, possibly indicating better food access or quality healthcare.
 
 #### 8. Adult Mortality Trend (Rolling)  
-📷 **[11_Rolling_Adult_Mortality_Afghanistan.png](./Exploratory%20Data%20Analysis/Screenshots/11_Rolling_Adult_Mortality_Afghanistan.png)**  
-📷 **[12_Rolling_Adult_Mortality_USA.png](./Exploratory%20Data%20Analysis/Screenshots/12_Rolling_Adult_Mortality_USA.png)**  
+Rolling sum of adult mortality by country shows long-term shifts in public health outcomes.
 
 ---
 
@@ -102,7 +87,6 @@ Prepare a clean, consistent dataset by addressing:
 ## ✅ Outcome
 - The dataset is cleaned, structured, and ready for analysis.
 - EDA uncovered valuable insights around life expectancy, GDP, BMI, and mortality.
-- 
 ---
 
 ## 👤 Author
