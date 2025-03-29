@@ -54,26 +54,26 @@ Prepare a clean, consistent dataset by addressing:
 
 ### 📈 Key EDA Insights
 
-#### 2. Countries with Greatest Life Expectancy Improvement  
-Haiti showed the most improvement (~28.7 years) over 15 years.
+#### 1. Countries with Greatest Life Expectancy Improvement  
+- Haiti showed the most improvement (~28.7 years) over 15 years.
 
-#### 3. Global Trend Over Time  
-Global life expectancy rose from ~66.75 to ~71.24 between 2007–2020.
+#### 2. Global Trend Over Time  
+- Global life expectancy rose from ~66.75 to ~71.24 between 2007–2020.
 
-#### 4. GDP vs Life Expectancy  
-High-GDP countries live ~10 years longer on average compared to low-GDP countries.
+#### 3. GDP vs Life Expectancy  
+- High-GDP countries live ~10 years longer on average compared to low-GDP countries.
 
-#### 5. GDP Bracket Comparison  
-Countries with GDP ≥ 1500 have an average life expectancy of 74.2, while GDP ≤ 1500 is around 64.7.
+#### 4. GDP Bracket Comparison  
+- Countries with GDP ≥ 1500 have an average life expectancy of 74.2, while GDP ≤ 1500 is around 64.7.
 
-#### 6. Developed vs Developing Countries  
-Developed countries average ~79.2 years in life expectancy, while developing countries average ~66.8 years.
+#### 5. Developed vs Developing Countries  
+- Developed countries average ~79.2 years in life expectancy, while developing countries average ~66.8 years.
 
-#### 7. BMI and Life Expectancy  
-Higher BMI is positively correlated with longer life expectancy, possibly indicating better food access or quality healthcare.
+#### 6. BMI and Life Expectancy  
+- Higher BMI is positively correlated with longer life expectancy, possibly indicating better food access or quality healthcare.
 
-#### 8. Adult Mortality Trend (Rolling)  
-Rolling sum of adult mortality by country shows long-term shifts in public health outcomes.
+#### 7. Adult Mortality Trend (Rolling)  
+- Rolling sum of adult mortality by country shows long-term shifts in public health outcomes.
 
 ---
 
